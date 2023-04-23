@@ -1,2 +1,1 @@
-friend = 15 
-print(friend)
+print(6+4)
